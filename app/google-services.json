@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240189534870",
+    "project_id": "pc1hernandez",
+    "storage_bucket": "pc1hernandez.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240189534870:android:f40abda862e6ae5d6a48b7",
+        "android_client_info": {
+          "package_name": "dev.romulohernandez.pc1_romulohernandez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxLzMbWNLhbDSk-PwaTpVS_EaAqSxc2ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
